@@ -40,7 +40,7 @@
 
 ### 📚 To-Do
 - [ ] Vulnerability Scanner
-- [ ] Improve Joomla detection
+- [ ] Improve Magento detection
 - [ ] Improve code
 
 <br><br>
