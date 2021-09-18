@@ -1,9 +1,9 @@
 # 🍊 Magenta
 
 <p align="center">
-    <img src="https://img.shields.io/github/license/oppsec/magenta?color=magenta&logo=github&logoColor=magenta&style=for-the-badge">
-    <img src="https://img.shields.io/github/issues/oppsec/magenta?color=magenta&logo=github&logoColor=magenta&style=for-the-badge">
-    <img src="https://img.shields.io/github/stars/oppsec/magenta?color=magenta&label=STARS&logo=github&logoColor=magenta&style=for-the-badge">
+    <img src="https://img.shields.io/github/license/knightm4re/magenta?color=magenta&logo=github&logoColor=magenta&style=for-the-badge">
+    <img src="https://img.shields.io/github/issues/knightm4re/magenta?color=magenta&logo=github&logoColor=magenta&style=for-the-badge">
+    <img src="https://img.shields.io/github/stars/knightm4re/magenta?color=magenta&label=STARS&logo=github&logoColor=magenta&style=for-the-badge">
 </p>
 
 <br>
